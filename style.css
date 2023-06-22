@@ -71,8 +71,4 @@ button:hover {
   background-color: hsl(158, 36%, 25%);
 }
 
-@media (max-width: 375px) {
-  html {
-    font-size: 50%;
-  }
-}
+
